@@ -6,7 +6,6 @@ Hello there! I'm Sourav Goyal, a passionate MERN stack developer currently pursu
 
 - **Name:** Sourav Goyal
 - **Education:** BCA (Currently pursuing)
-- **Location:** [Your City, Your Country]
 - **Portfolio:** [souravgoyal.dev](https://souravgoyal.dev)
 
 ## Skills
