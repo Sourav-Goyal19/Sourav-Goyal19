@@ -41,7 +41,7 @@ Keep your thoughts organized with this versatile note-taking app.
 ### 7. Calculator
 Perform basic calculations effortlessly with this user-friendly calculator.
 
-...and more! Check out my [GitHub repositories](https://github.com/Sourav-Goyal19) for a complete list.
+...and more! Check out my [GitHub repositories](https://github.com/Sourav-Goyal19?tab=repositories) for a complete list.
 
 ## Connect with Me
 
