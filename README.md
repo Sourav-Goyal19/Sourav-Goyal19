@@ -13,7 +13,6 @@ Hello there! I'm Sourav Goyal, a passionate MERN stack developer currently pursu
 I specialize in a range of technologies, including:
 
 - **MERN Stack:** MongoDB, Express.js, React, Node.js
-- **Frontend:** NEXT, VITE, React, SCSS
 - **Styling:** TAILWIND CSS
 - **Database:** Firebase, MongoDB
 - **Template Engine:** EJS
