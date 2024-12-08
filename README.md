@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=477&lines=Breathing+life+into+pixels+with+code.;Where+innovation+meets+implementation.;Coding+the+future%2C+one+line+at+a+time.;Architecting+solutions+for+tomorrow%2C+today.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=515&lines=Breathing+life+into+pixels+with+code.;Where+innovation+meets+implementation.;Coding+the+future%2C+one+line+at+a+time.;Architecting+solutions+for+tomorrow%2C+today.)](https://git.io/typing-svg)
+
 # 👽 About Me  
 Hi there! I'm **Sourav Goyal**, a Computer Science student and a dedicated **Full-Stack Web Developer** with a growing passion for **Artificial Intelligence**. 🚀 I specialize in building dynamic, user-centric websites and crafting robust backend systems using technologies like **Next.js**, **TypeScript**, **PostgreSQL**, and **Hono.js**. 🌟 My journey is now expanding into the fascinating world of **AI and Machine Learning**, where I’m exploring ways to integrate intelligent solutions into web applications. For me, coding is not just about problem-solving—it’s about creating innovative tools that make an impact. 💡  
 
