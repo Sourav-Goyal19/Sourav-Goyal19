@@ -1,14 +1,18 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=477&lines=Breathing+life+into+pixels+with+code.;Where+innovation+meets+implementation.;Coding+the+future%2C+one+line+at+a+time.;Architecting+solutions+for+tomorrow%2C+today.+)](https://git.io/typing-svg)
+# 👽 About Me  
+Hi there! I'm **Sourav Goyal**, a Computer Science student and a dedicated **Full-Stack Web Developer** with a growing passion for **Artificial Intelligence**. 🚀 I specialize in building dynamic, user-centric websites and crafting robust backend systems using technologies like **Next.js**, **TypeScript**, **PostgreSQL**, and **Hono.js**. 🌟 My journey is now expanding into the fascinating world of **AI and Machine Learning**, where I’m exploring ways to integrate intelligent solutions into web applications. For me, coding is not just about problem-solving—it’s about creating innovative tools that make an impact. 💡  
 
-# About Me:
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hey there! I'm Sourav Goyal, a Computer Science student with a passion for building things on the web. I specialize in Full Stack Web Development, and I'm currently diving into the exciting world of Machine Learning to expand my skillset.
+# 🚀 Current Focus  
+🎯 Currently, I’m diving into **AI/ML** alongside my web development projects, experimenting with frameworks like **PyTorch** and **LangChain** to create smart, interactive applications. On the web development side, I am refining my expertise in advanced backend optimizations, server-side rendering with **Next.js**, and API design with **PostgreSQL**. My goal is to merge the power of AI with traditional development to create innovative applications that solve real-world challenges. 🌐  
 
-🚀 Most of my work revolves around Next.js, TypeScript, PostgreSQL, and Hono.js, where I create innovative solutions for real-world problems. From crafting dynamic websites to building out robust backends, web development is my playground.
+# 🤝 Collaboration Opportunities  
+💬 I am always eager to collaborate on projects that blend web development with AI, such as building intelligent automation tools, integrating machine learning models into full-stack applications, or exploring innovative AI-powered solutions. I’m also interested in contributing to open-source initiatives and working with others on groundbreaking ideas. If you share a similar passion for **AI** and **web development**, let’s team up and create something extraordinary! 🚀  
 
-💡 When it comes to tackling challenges, I believe in the power of patience and thorough research. I love diving into documentation to master new technologies and constantly push myself to create something that hasn't been done before.
+# 📚 Continuous Learning  
+📖 My learning journey is currently focused on mastering **AI and Machine Learning**, exploring concepts like deep learning, natural language processing, and model integration into web applications. At the same time, I’m deepening my knowledge of **server-side rendering**, **scalable system design**, and advanced **state management** in web development. By combining these fields, I aim to create web solutions that are both intelligent and impactful. 🌟  
 
-🎮 Outside of coding, you'll often find me typing away or enjoying a good movie or series. I also indulge in some casual gaming to keep things fun and fresh.
-
-🌟 My goal? To become an exceptional coder and make my mark by creating something unique that doesn't yet exist in the market. If you're interested in collaboration or just want to connect, feel free to reach out. Together, we can build something great!
+# 🎮 Outside the Code  
+🎲 Beyond coding, I enjoy gaming, watching movies or series, and staying up-to-date with the latest tech trends. My creative downtime fuels my curiosity and helps me think outside the box when tackling complex challenges. With every project, I strive to bridge creativity, technology, and intelligence to deliver meaningful solutions. 🌈  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sourav_g_88375) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goyalsourav8893) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sourav-goyal-0555a51b4) 
@@ -27,9 +31,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sourav-Goyal19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Sourav-Goyal19&icon=0&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sourav-Goyal19) 
 
-[![](https://visitcount.itsvg.in/api?id=Sourav-Goyal19&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sourav-Goyal19&icon=0&color=10)](https://visitcount.itsvg.in)
