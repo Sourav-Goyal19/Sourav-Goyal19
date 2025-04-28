@@ -86,6 +86,6 @@ Hi there! I'm **Sourav Goyal**, a Computer Science student and a dedicated **Ful
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sourav-Goyal19) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/souravgoyal19) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sourav-Goyal19&color=blue)
