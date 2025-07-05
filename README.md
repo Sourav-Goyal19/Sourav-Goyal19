@@ -82,18 +82,18 @@ Hi there! I'm **Sourav Goyal**, a Computer Science student and a dedicated **Ful
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-Goyal19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=Sourav-Goyal19&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-Goyal19&theme=dark&hide_border=false)<br/><br/>
-<a href="http://www.github.com/Sourav-Goyal19"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav-Goyal19&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-Goyal19&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Sourav-Goyal19&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-Goyal19&theme=github_dark&hide_border=false)<br/><br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav-Goyal19&bg_color=0d0c0c&color=198de6&line=093267&point=09466d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Sourav-Goyal19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sourav-Goyal19&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
 
